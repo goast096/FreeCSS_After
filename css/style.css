@@ -927,4 +927,9 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
+
+img:not([width]):not([height]) {
+  width: 100%;
+  height: auto;
+}
 /*# sourceMappingURL=style.css.map */
